@@ -22,7 +22,7 @@ which takes one parameter, a string which represents a one or more sentences, an
 
 ![](scatter_plot.PNG)
 
-#Authors/authors:
+# Authors/authors:
 Emon Sarkar
 
 Course material: University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/python-functions-files-dictionaries/
