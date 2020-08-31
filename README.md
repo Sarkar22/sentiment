@@ -18,3 +18,11 @@ which takes one parameter, a string which represents a one or more sentences, an
 # 3. def get_neg(stringsentences):
 which takes one parameter, a string which represents a one or more sentences, and calculates how many words in the string are considered negative words. Use the list, negative_words to determine what words will count as negative. The function should return a positive integer - how many occurances there are of negative words in the text.
 
+## Scatterplot
+
+![](scatter_plot.PNG)
+
+#Authors/authors:
+Emon Sarkar
+
+Course material: University of Michigan in Coursera. You can find more information at https://www.coursera.org/learn/python-functions-files-dictionaries/
